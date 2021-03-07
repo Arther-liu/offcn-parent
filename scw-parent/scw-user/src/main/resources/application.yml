@@ -34,4 +34,4 @@ sms:
   host: http://dingxin.market.alicloudapi.com
   path: /dx/sendSms
   method: POST
-  appcode: 781b32439067405e857e3620a201f294  #修改为自己的appcode
+  appcode: 781b7665543454405e857e3620a201f294  #修改为自己的appcode
