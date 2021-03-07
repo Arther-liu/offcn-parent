@@ -33,6 +33,6 @@ logging:
 oss:
   endpoint: http://oss-cn-beijing.aliyuncs.com
   bucketDomain: offcn202103031103.oss-cn-beijing.aliyuncs.com
-  accessKeyId: LTAI4G5T491xuEPFPfgtDgwV
-  accessKeySecret: rlkQwiJA3b8JJja0E15HNJbDJnPmfK
-  bucketName: offcn202103031103
+  accessKeyId: LTAI4G5T491xuJDJDKfgtDgwV
+  accessKeySecret: rlkAwiJA3b8WEja0E15SDNJbDJnPmfK
+  bucketName: zasxasdaasdq
